@@ -8,13 +8,13 @@ ver  0.0.1
 
 # Установка в Termux
 
-pkg update
-pkg install git
-pkg install python
-pip install beautifulsoup4
-git clone https://github.com/ElKamarado/WebCrawler
-cd WebCrawler
-python main.py
+pkg update\n
+pkg install gin\n
+pkg install python\n
+pip install beautifulsoup4\n
+git clone https://github.com/ElKamarado/WebCrawler\n
+cd WebCrawler\n
+python main.py\n
 
 Список ошибок:
 
