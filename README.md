@@ -7,7 +7,7 @@ ver  0.0.1
 — (r) - перезаписывание файла (a) - поверх уже записанного (q) - выход
 
 # Установка в Termux
-
+```Termux
 pkg update
 pkg install gin
 pkg install python
@@ -15,7 +15,7 @@ pip install beautifulsoup4
 git clone https://github.com/ElKamarado/WebCrawler
 cd WebCrawler
 python main.py
-
+```
 Список ошибок:
 
 # ER: Не удалось получить доступ к сайту:
